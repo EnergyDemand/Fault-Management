@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1 Score,MCC
+Proposed Model,0.737,0.776,0.737,0.724,0.689
+LGBM,0.774,0.816,0.774,0.742,0.732
+RF,0.748,0.779,0.748,0.738,0.698
